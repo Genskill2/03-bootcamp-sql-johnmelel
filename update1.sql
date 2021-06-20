@@ -1,2 +1,1 @@
-SELECT PHI AS Prentice Hall
-FROM publisher;
+UPDATE publisher set name = "Prentice Hall" WHERE id =1;
